@@ -1,0 +1,27 @@
+scout-vision/.env
+scout-vision/cognito/UserPool.ts
+
+# Logs
+scout-vision/logs
+scout-vision/*.log
+scout-vision/npm-debug.log*
+scout-vision/yarn-debug.log*
+scout-vision/yarn-error.log*
+scout-vision/pnpm-debug.log*
+scout-vision/lerna-debug.log*
+
+scout-vision/node_modules
+scout-vision/dist
+scout-vision/dist-ssr
+scout-vision/*.local
+
+# Editor directories and files
+scout-vision/.vscode/*
+scout-vision/!.vscode/extensions.json
+scout-vision/.idea
+scout-vision/.DS_Store
+scout-vision/*.suo
+scout-vision/*.ntvs*
+scout-vision/*.njsproj
+scout-vision/*.sln
+scout-vision/*.sw?
