@@ -1,5 +1,5 @@
 scout-vision/.env
-scout-vision/cognito/UserPool.ts
+scout-vision/src/cognito/UserPool.ts
 
 # Logs
 scout-vision/logs
